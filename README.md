@@ -63,26 +63,10 @@ This was made mainly for school cafeterias, but it can be used anywhere food is 
 
 - **Buffer** – CAD $100
 
-## Contingency
+## Camera Hardware
 
-- **Spare camera module, sensors** – CAD $90
-
-## Data & Reports
-
-- **Google Sheets API Automation Integration** – CAD $50
+- **Spare camera module, sensors** – CAD $100
 
 ## Hardware
 
 - **Raspberry Pi 5 (8GB)** – CAD $120
-
-## Labor/Consulting
-
-- **Freelance Software Help (if needed)** – CAD $250
-
-## Marketing & Branding
-
-- **Logo Design, Posters, & Stickers** – CAD $75
-
-## Outreach & Impact
-
-- **Print Reports + School Presentation Material** – CAD $100
