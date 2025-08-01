@@ -50,3 +50,39 @@ This was made mainly for school cafeterias, but it can be used anywhere food is 
 - This is still being improved based on real-world testing.
 - The accuracy improves as more training data is added from different schools or food types.
 - One limitation is lighting – it works best in areas with consistent light.
+
+
+
+# SmartBin AI Budget Overview
+
+## AI & Software
+
+- **OpenAI API credits (image classification)** – CAD $150
+
+## Buffer
+
+- **Buffer** – CAD $100
+
+## Contingency
+
+- **Spare camera module, sensors** – CAD $90
+
+## Data & Reports
+
+- **Google Sheets API Automation Integration** – CAD $50
+
+## Hardware
+
+- **Raspberry Pi 5 (8GB)** – CAD $120
+
+## Labor/Consulting
+
+- **Freelance Software Help (if needed)** – CAD $250
+
+## Marketing & Branding
+
+- **Logo Design, Posters, & Stickers** – CAD $75
+
+## Outreach & Impact
+
+- **Print Reports + School Presentation Material** – CAD $100
