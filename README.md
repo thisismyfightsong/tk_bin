@@ -52,21 +52,57 @@ This was made mainly for school cafeterias, but it can be used anywhere food is 
 - One limitation is lighting – it works best in areas with consistent light.
 
 
+# SmartBin AI – Budget Breakdown (USD $330)
 
-# SmartBin AI Budget Overview
+SmartBin AI is an AI-powered system to detect and analyze food waste in schools, canteens, or kitchen settings using a Raspberry Pi, camera, and lightweight machine learning models. Below is the detailed breakdown of how to spend a $330 budget to build and deploy the system.
 
-## AI & Software
+## 1. Core Hardware – $140
 
-- **OpenAI API credits (image classification)** – CAD $150
+| Item                                | Cost (USD) | Notes                                      |
+|-------------------------------------|------------|--------------------------------------------|
+| Raspberry Pi 5 (4GB)                | $80        | Main processor for AI tasks                |
+| Official Raspberry Pi Power Supply  | $10        | Ensures stable power                       |
+| 64GB MicroSD Card (Class A1)        | $10        | Storage for OS and images                  |
+| Heatsink + Cooling Fan              | $10        | Prevents thermal throttling                |
+| Pi Camera v2  | $30        | For high-resolution image capture          |
 
-## Buffer
+## 2. Mounting + Build Materials – $40
 
-- **Buffer** – CAD $100
+| Item                         | Cost (USD) | Notes                                      |
+|------------------------------|------------|--------------------------------------------|
+| 3D Printing Filament (1kg PLA) | $25       | For printing camera and Pi mounts          |
+| Misc Hardware (screws, cable ties, Velcro) | $10 | For assembling and securing parts          |
+| Flexible Camera Cable | $5 | Needed for positioning the camera          |
 
-## Camera Hardware
+## 3. AI + Software – $20
 
-- **Spare camera module, sensors** – CAD $100
+| Item                           | Cost (USD) | Notes                                      |
+|--------------------------------|------------|--------------------------------------------|
+| Python + OpenCV + YOLOv5       | $0         | Installed via pip                          |
+| OpenAI API Credits             | $10        | For plate detection and classification     |
+| AWS S3 Bucket or Google Drive  | $10        | For storing images or logs remotely        |
 
-## Hardware
+## 4. Dashboard and Hosting – $30
 
-- **Raspberry Pi 5 (8GB)** – CAD $120
+| Item                              | Cost (USD) | Notes                                      |
+|-----------------------------------|------------|--------------------------------------------|
+| Shared Hosting (1 year)           | $24        | WordPress or static dashboard              |
+| Custom Domain (e.g. .xyz)         | $6         | For professional project link              |
+
+## 5. Portable Setup and Expansion – $40
+
+| Item                          | Cost (USD) | Notes                                      |
+|-------------------------------|------------|--------------------------------------------|
+| Power Bank (10,000 mAh)       | $20        | To operate SmartBin without wall power     |
+| USB Flash Drive (128GB)       | $10        | For offline backups or exports             |
+| Small Tripod or Clamp Stand   | $10        | Optional alternative to 3D printed mount   |
+
+## 6. Testing and Contingency – $60
+
+| Item                                     | Cost (USD) | Notes                                      |
+|------------------------------------------|------------|--------------------------------------------|
+| Feedback Incentives (student rewards)    | $30        | Tokens or vouchers for pilot testers       |
+| Extra SD Card, Cables, Misc Replacements | $20        | For quick part replacement during trials   |
+| QR Code Stickers, Labels, Printouts      | $10        | For project branding and instructions      |
+
+## Total: $330
