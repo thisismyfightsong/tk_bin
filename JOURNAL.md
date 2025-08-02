@@ -13,20 +13,20 @@ created_at: "2024-07-23"
 
 - **July 23 (10 days ago)** – I completed the part of the code that takes images from a folder and converts them into base64. Since computers can’t process images, it requires the image in base64 format, which is a text format for the computer to understand the picture.
 
-![Base64 Code](img2.png)
+![Base64 Code](images/img2.png)
 
 - **July 25 (8 days ago)** – Completed making the model where I am connecting my Python code with the gpt-4o model specifically for image classification. Moreover, I created a detailed `prompt.txt` (more than 200 lines of code).
 
-![GPT-4o Integration](img3.png)
+![GPT-4o Integration](images/img3.png)
 
 - **July 26 (7 days ago)** – Finally completed the script that constantly takes images every 0.25 seconds and saves it if it satisfies the Region of Interest (ROI) function for plate detection. Now I am going to focus on developing the Graphical User Interface (GUI).
 
-![ROI Script](img4.png)
+![ROI Script](images/img4.png)
 
 - **July 30 (3 days ago)** – I completed the combining of the code as well as the UI interface for the COMPLETE app. This means that the user can simply use it as if it was a web app they were launching! I made this using Tkinter and Python, really happy with this.
 
-![Complete UI](img5.png)
+![Complete UI](images/img5.png)
 
 - **July 31 (2 days ago)** – I finally just finished! I configured the Raspberry Pi OS to also show my app in the desktop as well as the side bar.
 
-![Raspberry Pi Integration](img6.png)
+![Raspberry Pi Integration](images/img6.png)
