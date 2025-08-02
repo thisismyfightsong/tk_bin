@@ -30,3 +30,8 @@ created_at: "2024-07-23"
 - **July 31 (2 days ago)** – I finally just finished! I configured the Raspberry Pi OS to also show my app in the desktop as well as the side bar.
 
 ![Raspberry Pi Integration](images/img6.png)
+
+- **July 31 (2 days ago)** – I made a CAD Design of the whole model on fusion 360 and then 3d printed it out! Check the later images to see the project actually being setup in the school!!!
+
+![Raspberry Pi Integration](images/img7.png)
+![Raspberry Pi Integration](images/img8.png)
