@@ -51,6 +51,8 @@ This was made mainly for school cafeterias, but it can be used anywhere food is 
 - The accuracy improves as more training data is added from different schools or food types.
 - One limitation is lighting – it works best in areas with consistent light.
 
+# 3D CAD made on Autodesk Fusion360
+![CAD](images/img9.png)
 
 # SmartBin AI – Budget Breakdown (USD $330)
 
