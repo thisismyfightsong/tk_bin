@@ -4,6 +4,8 @@ SmartBin AI is a module that reduces food waste using artificial intelligence. I
 
 Every month, it automatically generates a report based on the collected data. This report is sent to the food provider with suggestions, like adjusting portion sizes for meals that are often left unfinished.
 
+I created this project after viewing first hand the amount of food waste the average school cafeteria or any kitchen in general produces. I figured that if such organisations could know what their most significant food waste was they can reduce the portion size of it, ultimetly reducing the amount of food waste!
+
 ## How it works
 
 1. The module waits for a plate to appear in its field of view.
