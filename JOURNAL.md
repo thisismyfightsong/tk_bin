@@ -9,7 +9,7 @@ created_at: "2024-07-23"
 
 - **July 23 (10 days ago)** – Took quite long to complete the next part but I got it done!!! I managed to change the UI interface from terminal or command prompt to a Graphical User Interface using the Tkinter Python library.
 
-![UI Update](img1.png)
+![UI Update](images/img1.png)
 
 - **July 23 (10 days ago)** – I completed the part of the code that takes images from a folder and converts them into base64. Since computers can’t process images, it requires the image in base64 format, which is a text format for the computer to understand the picture.
 
