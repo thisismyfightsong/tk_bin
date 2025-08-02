@@ -5,7 +5,7 @@ description: "I am making SmartBin AI, which is a project that can analyse both 
 created_at: "2024-07-23"
 ---
 
-## Devlogs
+## What I worked on, Total Time Spent -> 37hrs 45 mins
 
 - **July 23 2hrs 24 mins(10 days ago)** – Took quite long to complete the next part but I got it done!!! I managed to change the UI interface from terminal or command prompt to a Graphical User Interface using the Tkinter Python library.
 
